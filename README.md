@@ -17,17 +17,6 @@ A simple Java webapp in Play framework.
 1. Run `./sbt run`
 1. Visit [http://localhost:9000/](http://localhost:9000/) to see the app running.
 
-<!--
-## Run in Docker
-
-1. Download code `git clone https://github.com/amdelamar/play-starter`
-1. `cd play-starter`
-1. Run build `./sbt`
-1. Build image `docker build -t play .`
-1. Run container `docker run -p 9000:9000 play`
-1. Visit [http://localhost:9000/](http://localhost:9000/) to see the app running.
--->
-
 ## License
 
 [MIT](/LICENSE)
